@@ -6,7 +6,6 @@ This is my first C++ project! 🎉 I created a simple calculator to test my unde
 ---
 
 ## 📸 Preview
-![C++ Logo](https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg)
 
 ![Calculator Icon](https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Calc_Icon.svg/1024px-Calc_Icon.svg.png)
 
@@ -57,7 +56,14 @@ int main() {
     else if (op == "/" or op == "÷") {
         cout << "your number is: "<< x / y <<"\n";
     }
+
+    cout << "Press Enter to exit...";
+    cin.ignore();
+    cin.get();
+
     return 0;
+}
+
 }
 ```
 
