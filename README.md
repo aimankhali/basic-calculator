@@ -7,7 +7,7 @@ This is my first C++ project! 🎉 I created a simple calculator to test my unde
 
 ## 📸 Preview
 
-![Calculator Icon](https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Calc_Icon.svg/1024px-Calc_Icon.svg.png)
+![Calculator Icon]([https://github.com/aimankhali/basic-calculator/blob/main/image.png?raw=true])
 
 ---
 
