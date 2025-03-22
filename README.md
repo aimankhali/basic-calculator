@@ -63,8 +63,6 @@ int main() {
 
     return 0;
 }
-
-}
 ```
 
 ## 📥 Installation & Usage
