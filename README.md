@@ -9,16 +9,6 @@ This is my first C++ project! 🎉 I created a simple calculator to test my unde
 
 ![Calculator Icon](https://raw.githubusercontent.com/aimankhali/basic-calculator/main/calculator.gif)
 
----
-
-## 🔧 Features
-✅ Supports basic arithmetic operations: `+`, `-`, `*`, `/`  
-✅ Simple command-line interface 🖥️  
-✅ Lightweight & fast ⚡  
-✅ Easy to modify and improve 🔧  
-
----
-
 ## 📜 Code Example
 Here's a snippet of the calculator:
 ```cpp
