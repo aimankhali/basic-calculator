@@ -1,4 +1,79 @@
-# basic-calculator
-first c++ project of making a calculator 
-this is only a test if i know the basics of c++ 
-learned in 40 minutes . made by aimankhali
+# 🧮 Basic Calculator - My First C++ Project!
+
+## 🚀 About This Project
+This is my first C++ project! 🎉 I created a simple calculator to test my understanding of C++ basics after just **40 minutes** of learning. This project is purely for practice and fun. 😃
+
+---
+
+## 📸 Preview
+![C++ Logo](https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg)
+
+![Calculator Icon](https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Calc_Icon.svg/1024px-Calc_Icon.svg.png)
+
+---
+
+## 🔧 Features
+✅ Supports basic arithmetic operations: `+`, `-`, `*`, `/`  
+✅ Simple command-line interface 🖥️  
+✅ Lightweight & fast ⚡  
+✅ Easy to modify and improve 🔧  
+
+---
+
+## 📜 Code Example
+Here's a snippet of the calculator:
+```cpp
+#include <iostream>
+using namespace std;
+
+int main() {
+
+    system("title Calculator test");
+
+    int x;
+    int y;
+    string op;
+
+    cout << "first c++ project of making a calculator \nthis is only a test if i know the basics of c++ \nlearned in 40 minutes . made by aimankhali \n";
+
+    cout << "first number: ";
+    cin >> x;
+
+    cout << "second number: ";
+    cin >> y;
+
+    cout << "operator: ";
+    cin >> op;
+
+    if (op == "+") {
+        cout << "your number is: " << x + y << "\n";
+    }
+    else if (op == "-") {
+        cout << "your number is: " << x - y << "\n";
+    }
+    else if (op == "x" or op == "*") {
+        cout << "your number is: " << x * y << "\n";
+    }
+    else if (op == "/" or op == "÷") {
+        cout << "your number is: "<< x / y <<"\n";
+    }
+    return 0;
+}
+```
+
+## 📥 Installation & Usage
+1. Install a C++ compiler (e.g., GCC, MSVC) 🛠️
+2. or you can also run it in a website (e.g., programiz, OnlineGBD) 🛠️
+3. paste the code from the code example 📜
+4. compile and have fun ⛏️📦
+
+
+## 🏆 Credits
+Made with ❤️ by **aimankhali** ✨
+
+---
+
+## 📢 Feedback & Contributions
+Feel free to fork the project, so you can learn yourself! 🚀
+
+---
